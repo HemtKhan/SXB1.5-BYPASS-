@@ -1,0 +1,13 @@
+# SXB1.5-BYPASS-
+
+SXB1.5 VIRSION BYPASS DONE 
+100% SECURITY 😎
+
+SEND KEY FOR APPROVAL 
+
+#COMMAND
+
+git cone 
+https://github.com/HemtKhan/SXB1.5-BYPASS
+cd SXB1.5-BYPASS
+python f.py
